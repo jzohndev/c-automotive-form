@@ -1,0 +1,9 @@
+F:\CIS 270\10-1\Homework10\Homework10\bin\Debug\Homework10.exe.config
+F:\CIS 270\10-1\Homework10\Homework10\bin\Debug\Homework10.exe
+F:\CIS 270\10-1\Homework10\Homework10\bin\Debug\Homework10.pdb
+F:\CIS 270\10-1\Homework10\Homework10\obj\Debug\Homework10.Form1.resources
+F:\CIS 270\10-1\Homework10\Homework10\obj\Debug\Homework10.Properties.Resources.resources
+F:\CIS 270\10-1\Homework10\Homework10\obj\Debug\Homework10.csproj.GenerateResource.Cache
+F:\CIS 270\10-1\Homework10\Homework10\obj\Debug\Homework10.exe
+F:\CIS 270\10-1\Homework10\Homework10\obj\Debug\Homework10.pdb
+F:\CIS 270\10-1\Homework10\Homework10\obj\Debug\Homework10.csprojResolveAssemblyReference.cache
